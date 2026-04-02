@@ -4,7 +4,7 @@
 
 **Offensive Security Research & Tooling**
 
-![](https://img.shields.io/badge/status-active-0d0d0d?style=flat-square&labelColor=0d0d0d&color=0d0d0d)
+![](https://img.shields.io/badge/status-active-CC0000?style=flat-square&labelColor=0d0d0d&color=CC0000)
 ![](https://img.shields.io/badge/focus-red_team-CC0000?style=flat-square&labelColor=0d0d0d&color=CC0000)
 ![](https://img.shields.io/badge/type-independent_research-00FF41?style=flat-square&labelColor=0d0d0d&color=CC0000)
 
@@ -29,20 +29,6 @@ Fsociety is an independent security research group publishing offensive tools, e
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d0d0d?style=flat-square&logo=portswigger&logoColor=00FF41)
 
 ---
-
-**Repositories**
-
-| Repository | Description |
-|---|---|
-| `fsociety-toolkit` | Core offensive toolset for red team engagements |
-| `recon-engine` | Automated reconnaissance and OSINT framework |
-| `evasion-kit` | Endpoint defense bypass research |
-| `ctf-archive` | CTF write-ups with full technical documentation |
-| `script-vault` | Security automation and utility scripts |
-
----
-
-<div align="center">
 
 `github.com/fs0ci5ty`
 
