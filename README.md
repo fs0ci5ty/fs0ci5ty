@@ -4,9 +4,11 @@
 
 **Offensive Security Research & Tooling**
 
-![](https://img.shields.io/badge/status-active-00FF41?style=flat-square&labelColor=0d0d0d&color=00FF41)
-![](https://img.shields.io/badge/focus-red_team-00FF41?style=flat-square&labelColor=0d0d0d&color=00FF41)
-![](https://img.shields.io/badge/type-independent_research-00FF41?style=flat-square&labelColor=0d0d0d&color=00FF41)
+![](https://img.shields.io/badge/status-active-0d0d0d?style=flat-square&labelColor=0d0d0d&color=0d0d0d)
+![](https://img.shields.io/badge/focus-red_team-CC0000?style=flat-square&labelColor=0d0d0d&color=CC0000)
+![](https://img.shields.io/badge/type-independent_research-00FF41?style=flat-square&labelColor=0d0d0d&color=CC0000)
+
+
 ![](https://komarev.com/ghpvc/?username=fs0ci5ty&style=flat-square&labelColor=0d0d0d&color=00FF41&label=profile+views)
 
 </div>
